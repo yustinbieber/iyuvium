@@ -5,6 +5,8 @@ color 06
 Mode 130,45
 setlocal EnableDelayedExpansion
 
+start chrome https://github.com/yustinbieber/iyuvium
+
 ::Make Directories
 mkdir C:\Hone >nul 2>&1
 mkdir C:\Hone\Resources >nul 2>&1
