@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://cdn.discordapp.com/attachments/961776481367900190/1007446295989997708/unknown.png))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
