@@ -12,43 +12,10 @@
 
   <p align="center">
     Iyuvium is a free and open source desktop utility that aims to improve FPS, reduce input lag, and optimize network performance for video game titles and day-to-day productivity.
-  <p align="center">
-    If you would like to support the hone project, please leave a review on our Trustpilot: https://www.trustpilot.com/review/hone.gg
-    <br />
-    <br />
-    <a href="https://github.com/yustinbieber/Iyuvium"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/yustinbieber/Iyuvium/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yustinbieber/Iyuvium/issues">Request Feature</a>
   </p>
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
@@ -60,9 +27,6 @@
     <img src="https://cdn.discordapp.com/attachments/961776481367900190/1007446295989997708/unknown.png" alt="Logo" width="800" height="600">
   </a>
  </div>
-
-<img src="[https://cdn.discordapp.com/attachments/961776481367900190/1007446295989997708/unknown.png]" width="800" height="600 </img>
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
