@@ -170,20 +170,4 @@ Project Link: [https://github.com/yustinbieber/Iyuvium](https://github.com/yusti
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/auraside/HoneCtrl.svg?style=for-the-badge
-[contributors-url]: https://github.com/auraside/HoneCtrl/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/auraside/HoneCtrl.svg?style=for-the-badge
-[forks-url]: https://github.com/auraside/HoneCtrl/network/members
-[stars-shield]: https://img.shields.io/github/stars/auraside/HoneCtrl.svg?style=for-the-badge
-[stars-url]: https://github.com/auraside/HoneCtrl/stargazers
-[issues-shield]: https://img.shields.io/github/issues/auraside/HoneCtrl.svg?style=for-the-badge
-[issues-url]: https://github.com/auraside/HoneCtrl/issues
-[license-shield]: https://img.shields.io/github/license/auraside/HoneCtrl.svg?style=for-the-badge
-[license-url]: https://github.com/auraside/HoneCtrl/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: https://user-images.githubusercontent.com/107450640/173981200-3be429ba-54b5-4be2-9a86-e190fb39c854.png
-
 
