@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="[https://cdn.discordapp.com/attachments/961776481367900190/1007446295989997708/unknown.png]" width="800" height="600
+<img src="[https://cdn.discordapp.com/attachments/961776481367900190/1007446295989997708/unknown.png]" width="800" height="600 </img>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
