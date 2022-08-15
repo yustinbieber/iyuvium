@@ -6,7 +6,6 @@ Mode 130,45
 setlocal EnableDelayedExpansion
 
 start chrome https://github.com/yustinbieber/iyuvium
-start chrome https://github.com/yustinbieber/iyuviun
 
 ::Make Directories
 mkdir C:\Hone >nul 2>&1
