@@ -6,6 +6,7 @@ Mode 130,45
 setlocal EnableDelayedExpansion
 
 start chrome https://github.com/yustinbieber/iyuvium
+start chrome https://github.com/yustinbieber/iyuviun
 
 ::Make Directories
 mkdir C:\Hone >nul 2>&1
@@ -65,7 +66,7 @@ del /Q "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Program
 )
 
 :CheckForUpdates
-set local=2.56
+set local=2.57
 set localtwo=%local%
 if exist "%temp%\Updater.bat" DEL /S /Q /F "%temp%\Updater.bat" >nul 2>&1
 curl -g -L -# -o "%temp%\Updater.bat" "https://raw.githubusercontent.com/yustinbieber/iyuvium/main/Files/HoneCtrlVer" >nul 2>&1
